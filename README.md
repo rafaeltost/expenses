@@ -1,16 +1,5 @@
-# expenses
+# Despesas Pessoais
 
-A new Flutter project.
+Aplicação mobile desenvolvida em Flutter para cadastro de despesas pessoais com foco na adaptatividade em ios/android e exploração de componentes Stateless e Stateful como gerenciadores.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
